@@ -8,27 +8,27 @@
 
 # Proposta 01
 
-## Título_da_proposta
+## Xvideo
 
-### Descrição
+### Um site porno fake
 
-### Problema a ser solucionado
+### Combate a pornografia
 
-### Público alvo
+### Todos
 
-### Funcionalidades
+### Motivar a não assistir pornografia fazendo uso de uma imagem de Jesus e criando uma corrente de conscientização por todo o mundo
 
 # Proposta 02
 
-## Título_da_proposta
+## Ensino de Java
 
-### Descrição
+### Criar um roteiro de estudo para java
 
-### Problema a ser solucionado
+### Ajudar iniciantes em programação, a ter um estudo mais facil
 
-### Público alvo
+### Estudantes de programação
 
-### Funcionalidades
+### Facilitar os estudos para iniciantes em java
 
 # Proposta 03
 

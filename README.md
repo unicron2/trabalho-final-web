@@ -59,3 +59,20 @@
 - Fornecer um serviço de filtro de ordens cronológicas de trilogias, por exemplo, em ordem de lançamento ou em ordem segundo a linha temporal.
 - Fornecer um sistema de descrição detalhada sobre os títulos expostos.
 - Fornecer um sistema de favoritos, onde seria possível salvar títulos para rápida consulta futuramente.
+
+# Proposta 04
+
+## Sistema de gestão para CGAE 📖
+
+### Descrição
+- Um sistema de gerenciamento para o setor do CGAE
+
+### Problema a ser solucionado
+- Agilizar processos e promover um meio mais eficiente de comunicação entre o setor e os discentes
+
+### Público alvo
+- Servidores do CGAE e estudantes da instituição
+
+### Funcionalidades
+- Evoluir os sistemas de assinaturas de listas para meios eletronicos
+- Criar um meio de comunicação rápida entre estudantes e servidores, podendo atender a requisições de nova carteira do refeitório, comunicação de perda de chave dos armários, sistema de alerta imediato em caso de advertência/suspensão, promover um sistema de histórico de problemas ocorridos com o estudante dentro da instituição de ensino.

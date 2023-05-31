@@ -1,4 +1,4 @@
-# Sem Nome
+# Desempregados
 
 ### Integrantes
 - [Bernardo Rafael Sales Saraiva](https://github.com/Brx012)
@@ -9,32 +9,32 @@
 
 # Proposta 01
 
-## Xvideo
+## Xvideo 💦
 
 ### Descrição
-Um site porno fake onde ao invés de conteúdo adulto haveria uma imagem de Jesus e uma frase motivacional
+- Um site porno fake onde ao invés de conteúdo adulto haveria uma imagem de Jesus e uma frase motivacional
 
 ### Problema a ser solucionado
-Combate a pornografia
+- Combate a pornografia
 
 ### Público alvo
-Pessoas viciadas em pornografia
+- Pessoas viciadas em pornografia
 
 ### Funcionalidades
 - Motivar o não consumo de conteúdos pornograficos
 
 # Proposta 02
 
-## Playground de Programação
+## Playground de Programação 🚀
 
 ### Descrição
-Um sistema de roteiro para estudos em alguma linguagem de programação (No início pode ser focado em apenas uma linguagem e depois pode ser expandido para outras linguagens)
+- Um sistema de roteiro para estudos em alguma linguagem de programação (No início pode ser focado em apenas uma linguagem e depois pode ser expandido para outras linguagens)
 
 ### Problema a ser solucionado
-Fornecer um guia para ingressantes na área da programação
+- Fornecer um guia para ingressantes na área da programação
 
 ### Público alvo
-Estudantes de programação
+- Estudantes de programação
 
 ### Funcionalidades
 - Fornecer materiais de estudo em programação
@@ -43,16 +43,16 @@ Estudantes de programação
 
 # Proposta 03
 
-## Catálogo de filmes
+## Catálogo de filmes 🎞
 
 ### Descrição
-Um catalogador de filmes, focado em indicar ordem cronológica de trilogias
+- Um catalogador de filmes, focado em indicar ordem cronológica de trilogias
 
 ### Problema a ser solucionado
-Encontrar a ordem adequada de consumo dos conteúdos de uma trilogia
+- Encontrar a ordem adequada de consumo dos conteúdos de uma trilogia
 
 ### Público alvo
-Pessoas que possuem interesse em consumir conteúdos de trilogias
+- Pessoas que possuem interesse em consumir conteúdos de trilogias
 
 ### Funcionalidades
 - Fornecer serviços de busca de filmes/séries/especiais/minisséries/animações.

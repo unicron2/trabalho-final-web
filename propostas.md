@@ -1,21 +1,5 @@
 # Proposta 01
 
-## Xvideo 💦
-
-### Descrição
-- Um site porno fake onde ao invés de conteúdo adulto haveria uma imagem de Jesus e uma frase motivacional
-
-### Problema a ser solucionado
-- Combate a pornografia
-
-### Público alvo
-- Pessoas viciadas em pornografia
-
-### Funcionalidades
-- Motivar o não consumo de conteúdos pornograficos
-
-# Proposta 02
-
 ## Playground de Programação 🚀
 
 ### Descrição
@@ -32,7 +16,7 @@
 - Fornecer um compilador online
 - Fornecer exercícios lúdicos e produtivos aos consumidores
 
-# Proposta 03
+# Proposta 02
 
 ## Catálogo de filmes 🎞
 
@@ -51,7 +35,7 @@
 - Fornecer um sistema de descrição detalhada sobre os títulos expostos.
 - Fornecer um sistema de favoritos, onde seria possível salvar títulos para rápida consulta futuramente.
 
-# Proposta 04
+# Proposta 03
 
 ## Sistema de gestão para CGAE 📖
 

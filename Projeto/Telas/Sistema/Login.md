@@ -20,11 +20,10 @@ Uma tela de login para que os usuários consigam se conectarem a suas contas
 ---
 ## Protótipos
 
-### Versão 01
-![Versão 01](/trabalho-final-web/Imagens/Listas/Login/Vers%C3%A3o%2001.png)
+![Versão 01](/Imagens/Listas/Login/Vers%C3%A3o%2001.png)
 
 ### Versão 02
-![Versão 02](/trabalho-final-web/Imagens/Listas/Login/Vers%C3%A3o%2002.png)
+![Versão 02](/Imagens/Listas/Login/Vers%C3%A3o%2002.png)
 
 ---
 ## Versão Final

@@ -2,17 +2,17 @@
 
 Aqui estão listadas as telas que estarão incluídas no projeto;
 
-- [**Menu Principal (Home)**](./Telas/Home.md);
+- [**Menu Principal (Home)**](./Telas/Sistema/Home.md);
 
-- [**Entrar (Sign in)**](./telas/Login.md);
+- [**Entrar (Sign in)**](./Telas/Sistema/Login.md);
 
-- [**Cadastrar (Sign up)**](.telas/Sign-up.md);
+- [**Cadastrar (Sign up)**](./Telas/Sistema/Sign-up.md);
 
-- [**Lista (Vai e Volta)**](./telas/Vai-Volta.md);
+- [**Lista (Vai e Volta)**](./Telas/Listas/Vai-Volta.md);
 
-- [**Lista (Saída)**](./telas/Saida.md);
+- [**Lista (Saída)**](./Telas/Listas/Saida.md);
 
-- [**Lista (Pernoite)**](./telas/Pernoite.md).
+- [**Lista (Pernoite)**](./Telas/Listas/Pernoite.md).
 
 ---
 ## Apresentação das telas

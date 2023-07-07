@@ -2,18 +2,63 @@
 
 Aqui estão listadas as telas que estarão incluídas no projeto;
 
-- [**Menu Principal (Home)**](./Telas/Sistema/Home.md);
+## Compartilhadas entre usuários
 
 - [**Entrar (Sign in)**](./Telas/Sistema/Login.md);
 
-- [**Cadastrar (Sign up)**](./Telas/Sistema/Sign-up.md);
+## Visão do Aluno
 
-- [**Lista (Vai e Volta)**](./Telas/Listas/Vai-Volta.md);
+- [**Menu Principal (Home)**](./Telas/Aluno/Home.md);
 
-- [**Lista (Saída)**](./Telas/Listas/Saida.md);
+- [**Lista (Vai e Volta)**](./Telas/Aluno/Listas/Vai-Volta.md);
 
-- [**Lista (Pernoite)**](./Telas/Listas/Pernoite.md).
+- [**Lista (Saída)**](./Telas/Aluno/Listas/Saida.md);
 
+- [**Lista (Pernoite)**](./Telas/Aluno/Listas/Pernoite.md);
+
+- [**Perfil**](./Telas/Aluno/Perfil.md);
+
+- [**Solicitações em Aberto**](./Telas/Aluno/Solicitações/Abertas.md);
+
+- [**Solicitações Finalizadas**](./Telas/Aluno/Solicitações/Finalizadas.md);
+  
+- [**Solicitação**](./Telas/Aluno/Solicitações/Solicitação.md);
+  
+- [**Assinaturas Ativas**](./Telas/Aluno/Assinaturas/Ativas.md);
+  
+- [**Assinaturas Encerradas**](./Telas/Aluno/Assinaturas/Encerradas.md).
+
+---
+## Visão do Assistente
+
+- [**Home**](./Telas/Assistente/Home.md);
+  
+- [**Assinaturas**](./Telas/Assistente/Assinaturas.md);
+  
+- [**Assinatura**](./Telas/Assistente/Assinatura.md);
+
+- [**Cadastrar Assinatura**](./Telas/Assistente/Nova-Assinatura.md);
+
+- [**Alunos**](./Telas/Assistente/Alunos/Alunos.md);
+  
+- [**Aluno**](./Telas/Assistente/Alunos/Aluno.md);
+  
+- [**Cadastrar Aluno**](./Telas/Assistente/Alunos/Novo-Aluno.md);
+  
+- [**Editar Aluno**](./Telas/Assistente/Alunos/Editar-Aluno.md);
+  
+- [**Excluir Aluno**](./Telas/Assistente/Alunos/Excluir-Aluno.md);
+
+- [**Solicitações Em Aberto**](./Telas/Assistente/Solicitações/Abertas.md);
+  
+- [**Solicitações Finalizadas**](./Telas/Assistente/Solicitações/Finalizadas.md);
+  
+- [**Solicitação**](./Telas/Assistente/Solicitações/Solicitação.md);
+
+- [**Perfil**](./Telas/Assistente/Perfil.md);
+  
+- [**Alterar Cadastro**](./Telas/Assistente/Alterar-Dados.md).
+  
 ---
 ## Apresentação das telas
 
